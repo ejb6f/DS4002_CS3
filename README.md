@@ -16,4 +16,8 @@ Holds 5 different datasets, each for a distinct weather parameter meant to be ut
 Data was originally accessed through the National Centers for Environmental Information website. Find hyperlink below under references.
 
 ## References
-[1] NOAA National Centers for Environmental Information, "Climate at a Glance: Time Series," [Online]. Available: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/national/time-series. [Accessed: March 14, 2024]
+[1] K. Smith et al., "Title of the Article," Frontiers in Environmental Science, vol. 2024, Article 1301343, [Online]. Available: https://www.frontiersin.org/articles/10.3389/fenvs.2024.1301343/full. [Accessed: Month Day, Year]
+
+[2] NOAA National Centers for Environmental Information, "Climate at a Glance: Time Series," [Online]. Available: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/national/time-series. [Accessed: March 14, 2024]
+
+[3] U.S. Environmental Protection Agency, "Climate Change Indicators: U.S. and Global Precipitation," [Online]. Available: https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation#tab-2. [Accessed: Month Day, Year]
