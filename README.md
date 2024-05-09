@@ -1,6 +1,8 @@
 # Predictive Climate: Data Estimating Future Weather Patterns
 ### A DS 4002 Case Study by Enmanuel Baez
 
+![image](https://github.com/ejb6f/DS4002_CS3/assets/77286019/c0d37b57-c0b1-4924-aecf-9ca7260dc78a)
+
 ## Hook
 Contains background information for the case study, guided through an exploration of predictive climate analysis, relatable scenarios, practical applications of data and statistical analytical techniques.
 Should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
